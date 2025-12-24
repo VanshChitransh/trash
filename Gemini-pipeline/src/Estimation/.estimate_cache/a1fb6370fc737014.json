@@ -1,0 +1,3177 @@
+{
+  "items": [
+    {
+      "category": "FOUNDATION",
+      "description": "Remove loose or cosmetic slab dressing from localized areas of the foundation exterior. Clean the underlying concrete surface and apply a new cementitious parge coat to the prepared areas.",
+      "qty": 1,
+      "unit_price_usd": 575.0,
+      "line_total_usd": 575.0,
+      "notes": "This is a cosmetic repair. Price assumes a few localized areas and does not include investigation or repair of any potential underlying structural issues that the dressing may be concealing.",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "original_issue_id": 0,
+      "original_issue": {
+        "section": "Structural Systems",
+        "suggested_category": "FOUNDATION",
+        "title": "Slab dressing observed on foundation",
+        "description": "Slab dressing observed at one or more areas of the foundation.",
+        "severity": "Deficient",
+        "estimated_fix": "Repair",
+        "location": "Foundation",
+        "page_refs": [
+          "5"
+        ]
+      }
+    },
+    {
+      "category": "FOUNDATION",
+      "description": "Install a root barrier to mitigate potential foundation damage from large tree roots. This includes trenching approximately 50 linear feet to a depth of 24-30 inches along the affected foundation line, installing a commercial-grade HDPE root barrier, and backfilling the trench.",
+      "qty": 1,
+      "unit_price_usd": 2450.0,
+      "line_total_usd": 2450.0,
+      "notes": "Price includes labor, materials, and equipment for installation of a root barrier along one side of the foundation. Does not include tree removal or foundation repair. Soil conditions may affect final cost.",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "original_issue_id": 1,
+      "original_issue": {
+        "section": "Structural Systems",
+        "suggested_category": "FOUNDATION",
+        "title": "Large trees near foundation",
+        "description": "Large tree(s) near the house/garage foundation. This condition can have adverse effects on foundation performance. If this is a concern, recommend consideration of installing a root barrier or other preventative measures.",
+        "severity": "Deficient",
+        "estimated_fix": "Repair",
+        "location": "House/garage foundation",
+        "page_refs": [
+          "5"
+        ]
+      }
+    },
+    {
+      "category": "FOUNDATION",
+      "description": "Differential movement/settlement observed; indicated by one or more of the following observed conditions; Elevation readings, cracks in brick veneer and/or foundation, cracks in sheetrock over doors and windows, doors that are not square in the jamb etc. In my opinion, the distress patterns observed at the time of inspection were not severe enough to recommend repair. Acceptance of present and future condition/performance/maintenance rests solely with the buyer/client.",
+      "qty": 1,
+      "unit_price_usd": 1150,
+      "line_total_usd": 1150,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 2,
+      "original_issue": {
+        "section": "Structural Systems",
+        "suggested_category": "FOUNDATION",
+        "title": "Differential movement/settlement observed",
+        "description": "Differential movement/settlement observed; indicated by one or more of the following observed conditions; Elevation readings, cracks in brick veneer and/or foundation, cracks in sheetrock over doors and windows, doors that are not square in the jamb etc. In my opinion, the distress patterns observed at the time of inspection were not severe enough to recommend repair. Acceptance of present and future condition/performance/maintenance rests solely with the buyer/client.",
+        "severity": "Deficient",
+        "estimated_fix": "Repair",
+        "location": "Not specified",
+        "page_refs": [
+          "5"
+        ]
+      }
+    },
+    {
+      "category": "FOUNDATION",
+      "description": "Ensure flower bed soil does not rise above foundation or bottom of siding to prevent water and wood-destroying insect entry into the house.",
+      "qty": 1,
+      "unit_price_usd": 1300,
+      "line_total_usd": 1300,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 3,
+      "original_issue": {
+        "section": "Structural Systems",
+        "suggested_category": "FOUNDATION",
+        "title": "Improper grading at flower beds",
+        "description": "Ensure flower bed soil does not rise above foundation or bottom of siding to prevent water and wood-destroying insect entry into the house.",
+        "severity": "Deficient",
+        "estimated_fix": "Repair",
+        "location": "Flower beds",
+        "page_refs": [
+          "7"
+        ]
+      }
+    },
+    {
+      "category": "ROOF",
+      "description": "Observed tree(s) leaning toward the house. Large limbs that fall could cause damage.",
+      "qty": 1,
+      "unit_price_usd": 825,
+      "line_total_usd": 825,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 4,
+      "original_issue": {
+        "section": "Structural Systems",
+        "suggested_category": "ROOF",
+        "title": "Trees leaning toward house",
+        "description": "Observed tree(s) leaning toward the house. Large limbs that fall could cause damage.",
+        "severity": "Deficient",
+        "estimated_fix": "Repair",
+        "location": "Exterior",
+        "page_refs": [
+          "8"
+        ]
+      }
+    },
+    {
+      "category": "ROOF",
+      "description": "Observed satellite dishes/antenna on roof. Historically satellite dishes have caused damage to roof shingles due to improper installation techniques. Recommend removal of dishes and sealing all holes caused by the installation, When/if satellite service is discontinued.",
+      "qty": 1,
+      "unit_price_usd": 850,
+      "line_total_usd": 850,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 5,
+      "original_issue": {
+        "section": "Structural Systems",
+        "suggested_category": "ROOF",
+        "title": "Satellite dishes on roof",
+        "description": "Observed satellite dishes/antenna on roof. Historically satellite dishes have caused damage to roof shingles due to improper installation techniques. Recommend removal of dishes and sealing all holes caused by the installation, When/if satellite service is discontinued.",
+        "severity": "Deficient",
+        "estimated_fix": "Repair",
+        "location": "Roof",
+        "page_refs": [
+          "8"
+        ]
+      }
+    },
+    {
+      "category": "ROOF",
+      "description": "Observed scuffed/damaged shingles. Scuffing the mineral surface off of a composition shingle exposes the asphalt to ultraviolet light which causes it to deteriorate and can greatly reduce the life of the shingle. Replace scuffed shingles.",
+      "qty": 1,
+      "unit_price_usd": 750,
+      "line_total_usd": 750,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 6,
+      "original_issue": {
+        "section": "Structural Systems",
+        "suggested_category": "ROOF",
+        "title": "Scuffed and damaged shingles",
+        "description": "Observed scuffed/damaged shingles. Scuffing the mineral surface off of a composition shingle exposes the asphalt to ultraviolet light which causes it to deteriorate and can greatly reduce the life of the shingle. Replace scuffed shingles.",
+        "severity": "Deficient",
+        "estimated_fix": "Replace",
+        "location": "Roof",
+        "page_refs": [
+          "8"
+        ]
+      }
+    },
+    {
+      "category": "ROOF",
+      "description": "Observed one or more areas of raised shingle tabs from fasteners not secured down properly or nail heads popping up through shingles.",
+      "qty": 1,
+      "unit_price_usd": 850,
+      "line_total_usd": 850,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 7,
+      "original_issue": {
+        "section": "Structural Systems",
+        "suggested_category": "ROOF",
+        "title": "Raised shingle tabs and nail pops",
+        "description": "Observed one or more areas of raised shingle tabs from fasteners not secured down properly or nail heads popping up through shingles.",
+        "severity": "Deficient",
+        "estimated_fix": "Repair",
+        "location": "Roof",
+        "page_refs": [
+          "8"
+        ]
+      }
+    },
+    {
+      "category": "ROOF",
+      "description": "Missing/torn shingles observed on roof, recommend replacement to prevent water entry.",
+      "qty": 1,
+      "unit_price_usd": 800,
+      "line_total_usd": 800,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 8,
+      "original_issue": {
+        "section": "Structural Systems",
+        "suggested_category": "ROOF",
+        "title": "Missing or torn shingles",
+        "description": "Missing/torn shingles observed on roof, recommend replacement to prevent water entry.",
+        "severity": "Deficient",
+        "estimated_fix": "Replace",
+        "location": "Roof",
+        "page_refs": [
+          "8"
+        ]
+      }
+    },
+    {
+      "category": "ROOF",
+      "description": "Older roof, nearing the end of serviceable life. (last 1/3 to 1/4 of serviceable life remaining). Observed brittle, cracked, curled ends and/or excessive granular loss of shingles.",
+      "qty": 1,
+      "unit_price_usd": 850,
+      "line_total_usd": 850,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 9,
+      "original_issue": {
+        "section": "Structural Systems",
+        "suggested_category": "ROOF",
+        "title": "Aging roof nearing end of life",
+        "description": "Older roof, nearing the end of serviceable life. (last 1/3 to 1/4 of serviceable life remaining). Observed brittle, cracked, curled ends and/or excessive granular loss of shingles.",
+        "severity": "Deficient",
+        "estimated_fix": "Replace",
+        "location": "Roof",
+        "page_refs": [
+          "8"
+        ]
+      }
+    },
+    {
+      "category": "ROOF",
+      "description": "Tree limbs in contact with the roof can/ will damage the roof.",
+      "qty": 1,
+      "unit_price_usd": 875,
+      "line_total_usd": 875,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 10,
+      "original_issue": {
+        "section": "Structural Systems",
+        "suggested_category": "ROOF",
+        "title": "Tree limbs in contact with roof",
+        "description": "Tree limbs in contact with the roof can/ will damage the roof.",
+        "severity": "Deficient",
+        "estimated_fix": "Repair",
+        "location": "Roof",
+        "page_refs": [
+          "8"
+        ]
+      }
+    },
+    {
+      "category": "ROOF",
+      "description": "Exposed staples/nail-heads/fasteners observed on the roof are not properly sealed. Water entry possible.",
+      "qty": 1,
+      "unit_price_usd": 800,
+      "line_total_usd": 800,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 11,
+      "original_issue": {
+        "section": "Structural Systems",
+        "suggested_category": "ROOF",
+        "title": "Exposed and unsealed roof fasteners",
+        "description": "Exposed staples/nail-heads/fasteners observed on the roof are not properly sealed. Water entry possible.",
+        "severity": "Deficient",
+        "estimated_fix": "Repair",
+        "location": "Roof",
+        "page_refs": [
+          "8"
+        ]
+      }
+    },
+    {
+      "category": "ROOF",
+      "description": "Observed rusted flashing; chimney cap",
+      "qty": 1,
+      "unit_price_usd": 750,
+      "line_total_usd": 750,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 12,
+      "original_issue": {
+        "section": "Structural Systems",
+        "suggested_category": "ROOF",
+        "title": "Rusted flashing at chimney cap",
+        "description": "Observed rusted flashing; chimney cap",
+        "severity": "Deficient",
+        "estimated_fix": "Repair",
+        "location": "Chimney cap",
+        "page_refs": [
+          "9"
+        ]
+      }
+    },
+    {
+      "category": "ROOF",
+      "description": "Rain gutter downspout(s) needs to be redirected to minimize possible wood rot, water entry, or foundation distress.",
+      "qty": 1,
+      "unit_price_usd": 800,
+      "line_total_usd": 800,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 13,
+      "original_issue": {
+        "section": "Structural Systems",
+        "suggested_category": "ROOF",
+        "title": "Gutter downspouts need redirection",
+        "description": "Rain gutter downspout(s) needs to be redirected to minimize possible wood rot, water entry, or foundation distress.",
+        "severity": "Deficient",
+        "estimated_fix": "Repair",
+        "location": "Gutters",
+        "page_refs": [
+          "9"
+        ]
+      }
+    },
+    {
+      "category": "ROOF",
+      "description": "Lower side of flashing is not sealed down, wind-driven rains can cause water penetration.",
+      "qty": 1,
+      "unit_price_usd": 775,
+      "line_total_usd": 775,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 14,
+      "original_issue": {
+        "section": "Structural Systems",
+        "suggested_category": "ROOF",
+        "title": "Unsealed flashing allowing water penetration",
+        "description": "Lower side of flashing is not sealed down, wind-driven rains can cause water penetration.",
+        "severity": "Deficient",
+        "estimated_fix": "Repair",
+        "location": "Roof",
+        "page_refs": [
+          "9"
+        ]
+      }
+    },
+    {
+      "category": "ROOF",
+      "description": "Recommend painting all exposed metal above roof line to prevent rusting and extend service life.",
+      "qty": 1,
+      "unit_price_usd": 725,
+      "line_total_usd": 725,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 15,
+      "original_issue": {
+        "section": "Structural Systems",
+        "suggested_category": "ROOF",
+        "title": "Exposed metal on roof needs painting",
+        "description": "Recommend painting all exposed metal above roof line to prevent rusting and extend service life.",
+        "severity": "Deficient",
+        "estimated_fix": "Repair",
+        "location": "Roof",
+        "page_refs": [
+          "9"
+        ]
+      }
+    },
+    {
+      "category": "ROOF",
+      "description": "Full of debris and/or holds standing water.",
+      "qty": 1,
+      "unit_price_usd": 825,
+      "line_total_usd": 825,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 16,
+      "original_issue": {
+        "section": "Structural Systems",
+        "suggested_category": "ROOF",
+        "title": "Gutters full of debris and holding water",
+        "description": "Full of debris and/or holds standing water.",
+        "severity": "Deficient",
+        "estimated_fix": "Repair",
+        "location": "Gutters",
+        "page_refs": [
+          "10",
+          "9"
+        ]
+      }
+    },
+    {
+      "category": "ROOF",
+      "description": "Rubber gasket of drain waste vents has deteriorated. This may allow water entry.",
+      "qty": 1,
+      "unit_price_usd": 750,
+      "line_total_usd": 750,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 17,
+      "original_issue": {
+        "section": "Structural Systems",
+        "suggested_category": "ROOF",
+        "title": "Deteriorated rubber gasket on drain waste vents",
+        "description": "Rubber gasket of drain waste vents has deteriorated. This may allow water entry.",
+        "severity": "Deficient",
+        "estimated_fix": "Repair",
+        "location": "Roof",
+        "page_refs": [
+          "10",
+          "9"
+        ]
+      }
+    },
+    {
+      "category": "ROOF",
+      "description": "Did not observe \"kick out\" flashing where a roof terminates along a wall. Kick out flashing encourages rain water running down the roof to be diverted / \"kicked out\" away from a wall and reduce water running down a wall.",
+      "qty": 1,
+      "unit_price_usd": 825,
+      "line_total_usd": 825,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 18,
+      "original_issue": {
+        "section": "Structural Systems",
+        "suggested_category": "ROOF",
+        "title": "Missing 'kick out' flashing",
+        "description": "Did not observe \"kick out\" flashing where a roof terminates along a wall. Kick out flashing encourages rain water running down the roof to be diverted / \"kicked out\" away from a wall and reduce water running down a wall.",
+        "severity": "Deficient",
+        "estimated_fix": "Repair",
+        "location": "Roof",
+        "page_refs": [
+          "10",
+          "9"
+        ]
+      }
+    },
+    {
+      "category": "ROOF",
+      "description": "The attic was not accessed during the inspection.",
+      "qty": 1,
+      "unit_price_usd": 875,
+      "line_total_usd": 875,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 19,
+      "original_issue": {
+        "section": "Structural Systems",
+        "suggested_category": "ROOF",
+        "title": "Attic not accessed during inspection",
+        "description": "The attic was not accessed during the inspection.",
+        "severity": "Deficient",
+        "estimated_fix": "Further Investigation",
+        "location": "Attic",
+        "page_refs": [
+          "11"
+        ]
+      }
+    },
+    {
+      "category": "ROOF",
+      "description": "Evidence of previous (possibly current) rodent activity in the attic.",
+      "qty": 1,
+      "unit_price_usd": 825,
+      "line_total_usd": 825,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 20,
+      "original_issue": {
+        "section": "Structural Systems",
+        "suggested_category": "ROOF",
+        "title": "Evidence of rodent activity in attic",
+        "description": "Evidence of previous (possibly current) rodent activity in the attic.",
+        "severity": "Deficient",
+        "estimated_fix": "Repair",
+        "location": "Attic",
+        "page_refs": [
+          "11"
+        ]
+      }
+    },
+    {
+      "category": "ROOF",
+      "description": "Hole and/or damaged roof decking observed in the attic. Recommend repair to prevent damage/injury from a person walking on the roof.",
+      "qty": 1,
+      "unit_price_usd": 800,
+      "line_total_usd": 800,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 21,
+      "original_issue": {
+        "section": "Structural Systems",
+        "suggested_category": "ROOF",
+        "title": "Damaged roof decking in attic",
+        "description": "Hole and/or damaged roof decking observed in the attic. Recommend repair to prevent damage/injury from a person walking on the roof.",
+        "severity": "Deficient",
+        "estimated_fix": "Repair",
+        "location": "Attic",
+        "page_refs": [
+          "11"
+        ]
+      }
+    },
+    {
+      "category": "ROOF",
+      "description": "Did not observe \"H\" clips at joints in roof decking to allow for the expansion of wood.",
+      "qty": 1,
+      "unit_price_usd": 725,
+      "line_total_usd": 725,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 22,
+      "original_issue": {
+        "section": "Structural Systems",
+        "suggested_category": "ROOF",
+        "title": "Missing 'H' clips on roof decking",
+        "description": "Did not observe \"H\" clips at joints in roof decking to allow for the expansion of wood.",
+        "severity": "Deficient",
+        "estimated_fix": "Repair",
+        "location": "Attic",
+        "page_refs": [
+          "11"
+        ]
+      }
+    },
+    {
+      "category": "ROOF",
+      "description": "Daylight is visible from interior of attic at one or more locations. Recommend sealing these areas to prevent potential pest / rodent / water entry.",
+      "qty": 1,
+      "unit_price_usd": 825,
+      "line_total_usd": 825,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 23,
+      "original_issue": {
+        "section": "Structural Systems",
+        "suggested_category": "ROOF",
+        "title": "Daylight visible from attic",
+        "description": "Daylight is visible from interior of attic at one or more locations. Recommend sealing these areas to prevent potential pest / rodent / water entry.",
+        "severity": "Deficient",
+        "estimated_fix": "Repair",
+        "location": "Attic",
+        "page_refs": [
+          "11"
+        ]
+      }
+    },
+    {
+      "category": "ROOF",
+      "description": "Observed excessive notching / boring of one or more framing members.",
+      "qty": 1,
+      "unit_price_usd": 725,
+      "line_total_usd": 725,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 24,
+      "original_issue": {
+        "section": "Structural Systems",
+        "suggested_category": "ROOF",
+        "title": "Excessive notching/boring of framing members",
+        "description": "Observed excessive notching / boring of one or more framing members.",
+        "severity": "Deficient",
+        "estimated_fix": "Repair",
+        "location": "Attic",
+        "page_refs": [
+          "11"
+        ]
+      }
+    },
+    {
+      "category": "ROOF",
+      "description": "Insulation not properly positioned/missing in areas, etc.",
+      "qty": 1,
+      "unit_price_usd": 775,
+      "line_total_usd": 775,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 25,
+      "original_issue": {
+        "section": "Structural Systems",
+        "suggested_category": "ROOF",
+        "title": "Improperly positioned or missing attic insulation",
+        "description": "Insulation not properly positioned/missing in areas, etc.",
+        "severity": "Deficient",
+        "estimated_fix": "Repair",
+        "location": "Attic",
+        "page_refs": [
+          "11"
+        ]
+      }
+    },
+    {
+      "category": "ROOF",
+      "description": "Not installed per manufacturer's installation instructions. Missing securing nails/lag bolts in holes of metal pivot points and corner braces.",
+      "qty": 1,
+      "unit_price_usd": 825,
+      "line_total_usd": 825,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 26,
+      "original_issue": {
+        "section": "Structural Systems",
+        "suggested_category": "ROOF",
+        "title": "Attic ladder improperly installed",
+        "description": "Not installed per manufacturer's installation instructions. Missing securing nails/lag bolts in holes of metal pivot points and corner braces.",
+        "severity": "Deficient",
+        "estimated_fix": "Repair",
+        "location": "Attic Access",
+        "page_refs": [
+          "11"
+        ]
+      }
+    },
+    {
+      "category": "ROOF",
+      "description": "Improper framing of attic stairway opening. Ceiling joists on both sides of attic stairway are not doubled to compensate for cut/removed ceiling joists to allow installation of the stairway. Installation does not comply with common industry standards.",
+      "qty": 1,
+      "unit_price_usd": 825,
+      "line_total_usd": 825,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 27,
+      "original_issue": {
+        "section": "Structural Systems",
+        "suggested_category": "ROOF",
+        "title": "Improper framing of attic stairway opening",
+        "description": "Improper framing of attic stairway opening. Ceiling joists on both sides of attic stairway are not doubled to compensate for cut/removed ceiling joists to allow installation of the stairway. Installation does not comply with common industry standards.",
+        "severity": "Deficient",
+        "estimated_fix": "Repair",
+        "location": "Attic Access",
+        "page_refs": [
+          "11"
+        ]
+      }
+    },
+    {
+      "category": "ROOF",
+      "description": "Hinge hyper-extends. Replacement is recommended.",
+      "qty": 1,
+      "unit_price_usd": 850,
+      "line_total_usd": 850,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 28,
+      "original_issue": {
+        "section": "Structural Systems",
+        "suggested_category": "ROOF",
+        "title": "Attic stairway hinge hyper-extends",
+        "description": "Hinge hyper-extends. Replacement is recommended.",
+        "severity": "Deficient",
+        "estimated_fix": "Replace",
+        "location": "Attic Access",
+        "page_refs": [
+          "11"
+        ]
+      }
+    },
+    {
+      "category": "ROOF",
+      "description": "Damaged stairway observed, dangerous/hazardous condition exists. Recommend replacement of stairway to attic.",
+      "qty": 1,
+      "unit_price_usd": 750,
+      "line_total_usd": 750,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 29,
+      "original_issue": {
+        "section": "Structural Systems",
+        "suggested_category": "ROOF",
+        "title": "Damaged and hazardous attic stairway",
+        "description": "Damaged stairway observed, dangerous/hazardous condition exists. Recommend replacement of stairway to attic.",
+        "severity": "Deficient",
+        "estimated_fix": "Replace",
+        "location": "Attic Access",
+        "page_refs": [
+          "11"
+        ]
+      }
+    },
+    {
+      "category": "ROOF",
+      "description": "Attic power fan thermostat control is not manual testable type, was unable to verify operation.",
+      "qty": 1,
+      "unit_price_usd": 850,
+      "line_total_usd": 850,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 30,
+      "original_issue": {
+        "section": "Structural Systems",
+        "suggested_category": "ROOF",
+        "title": "Attic power fan operation not verified",
+        "description": "Attic power fan thermostat control is not manual testable type, was unable to verify operation.",
+        "severity": "Deficient",
+        "estimated_fix": "Further Investigation",
+        "location": "Attic",
+        "page_refs": [
+          "12"
+        ]
+      }
+    },
+    {
+      "category": "ROOF",
+      "description": "Stairway improperly field/job site modified/altered/repaired against the manufacturer's installation instructions which increases the chance of injury. Recommend replacement.",
+      "qty": 1,
+      "unit_price_usd": 800,
+      "line_total_usd": 800,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 31,
+      "original_issue": {
+        "section": "Structural Systems",
+        "suggested_category": "ROOF",
+        "title": "Improperly modified attic stairway",
+        "description": "Stairway improperly field/job site modified/altered/repaired against the manufacturer's installation instructions which increases the chance of injury. Recommend replacement.",
+        "severity": "Deficient",
+        "estimated_fix": "Replace",
+        "location": "Attic Access",
+        "page_refs": [
+          "12"
+        ]
+      }
+    },
+    {
+      "category": "FOUNDATION",
+      "description": "Bushes/trees/vines/foliage should not contact the siding of the house. This issue obscures view of exterior siding and foundation and encourages wood rot and/or insect access.",
+      "qty": 1,
+      "unit_price_usd": 1225,
+      "line_total_usd": 1225,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 32,
+      "original_issue": {
+        "section": "Structural Systems",
+        "suggested_category": "FOUNDATION",
+        "title": "Foliage in contact with siding",
+        "description": "Bushes/trees/vines/foliage should not contact the siding of the house. This issue obscures view of exterior siding and foundation and encourages wood rot and/or insect access.",
+        "severity": "Deficient",
+        "estimated_fix": "Repair",
+        "location": "Exterior",
+        "page_refs": [
+          "13"
+        ]
+      }
+    },
+    {
+      "category": "FOUNDATION",
+      "description": "Recommend client consider painting exterior metal fence/gate in the near future.",
+      "qty": 1,
+      "unit_price_usd": 1175,
+      "line_total_usd": 1175,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 33,
+      "original_issue": {
+        "section": "Structural Systems",
+        "suggested_category": "FOUNDATION",
+        "title": "Exterior metal fence/gate needs painting",
+        "description": "Recommend client consider painting exterior metal fence/gate in the near future.",
+        "severity": "Deficient",
+        "estimated_fix": "Repair",
+        "location": "Exterior",
+        "page_refs": [
+          "13"
+        ]
+      }
+    },
+    {
+      "category": "FOUNDATION",
+      "description": "Gaps at joints in building components are potential pest / rodent entry points.",
+      "qty": 1,
+      "unit_price_usd": 1200,
+      "line_total_usd": 1200,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 34,
+      "original_issue": {
+        "section": "Structural Systems",
+        "suggested_category": "FOUNDATION",
+        "title": "Gaps at joints in building components",
+        "description": "Gaps at joints in building components are potential pest / rodent entry points.",
+        "severity": "Deficient",
+        "estimated_fix": "Repair",
+        "location": "Exterior",
+        "page_refs": [
+          "13"
+        ]
+      }
+    },
+    {
+      "category": "FOUNDATION",
+      "description": "Observed musty/moldy smell/odors which may be a concern due to increased awareness of environmental issues associated with molds. This inspector does not inspect for and is not qualified to render opinions on any type of environmental or other bio hazards. If this is a concern or potential concern, Fox Residential Service group recommends having our company or a qualified professional of your choice for further information/investigation.",
+      "qty": 1,
+      "unit_price_usd": 1175,
+      "line_total_usd": 1175,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 35,
+      "original_issue": {
+        "section": "Structural Systems",
+        "suggested_category": "FOUNDATION",
+        "title": "Musty/moldy smell observed",
+        "description": "Observed musty/moldy smell/odors which may be a concern due to increased awareness of environmental issues associated with molds. This inspector does not inspect for and is not qualified to render opinions on any type of environmental or other bio hazards. If this is a concern or potential concern, Fox Residential Service group recommends having our company or a qualified professional of your choice for further information/investigation.",
+        "severity": "Deficient",
+        "estimated_fix": "Further Investigation",
+        "location": "Interior",
+        "page_refs": [
+          "13"
+        ]
+      }
+    },
+    {
+      "category": "FOUNDATION",
+      "description": "Evidence of wood-destroying insect damage observed; Final determination of structurally significant damage to wood members cannot be determined without removal of wall covering {interior sheetrock or exterior siding}.",
+      "qty": 1,
+      "unit_price_usd": 1300,
+      "line_total_usd": 1300,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 36,
+      "original_issue": {
+        "section": "Structural Systems",
+        "suggested_category": "FOUNDATION",
+        "title": "Evidence of wood-destroying insect damage",
+        "description": "Evidence of wood-destroying insect damage observed; Final determination of structurally significant damage to wood members cannot be determined without removal of wall covering {interior sheetrock or exterior siding}.",
+        "severity": "Deficient",
+        "estimated_fix": "Further Investigation",
+        "location": "Not specified",
+        "page_refs": [
+          "13"
+        ]
+      }
+    },
+    {
+      "category": "FOUNDATION",
+      "description": "Damaged/cracked siding should be repaired to prevent water penetration.",
+      "qty": 1,
+      "unit_price_usd": 1100,
+      "line_total_usd": 1100,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 37,
+      "original_issue": {
+        "section": "Structural Systems",
+        "suggested_category": "FOUNDATION",
+        "title": "Damaged or cracked exterior siding",
+        "description": "Damaged/cracked siding should be repaired to prevent water penetration.",
+        "severity": "Deficient",
+        "estimated_fix": "Repair",
+        "location": "Exterior",
+        "page_refs": [
+          "14"
+        ]
+      }
+    },
+    {
+      "category": "FOUNDATION",
+      "description": "Fencing shows signs of deterioration. Observed one or more of the following conditions: wood rot, loose / missing boards, leans excessively etc.",
+      "qty": 1,
+      "unit_price_usd": 1300,
+      "line_total_usd": 1300,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 38,
+      "original_issue": {
+        "section": "Structural Systems",
+        "suggested_category": "FOUNDATION",
+        "title": "Deteriorated fencing",
+        "description": "Fencing shows signs of deterioration. Observed one or more of the following conditions: wood rot, loose / missing boards, leans excessively etc.",
+        "severity": "Deficient",
+        "estimated_fix": "Repair",
+        "location": "Exterior",
+        "page_refs": [
+          "14"
+        ]
+      }
+    },
+    {
+      "category": "FOUNDATION",
+      "description": "Several bricks showed signs of deterioration.",
+      "qty": 1,
+      "unit_price_usd": 1075,
+      "line_total_usd": 1075,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 39,
+      "original_issue": {
+        "section": "Structural Systems",
+        "suggested_category": "FOUNDATION",
+        "title": "Deteriorated bricks",
+        "description": "Several bricks showed signs of deterioration.",
+        "severity": "Deficient",
+        "estimated_fix": "Repair",
+        "location": "Exterior",
+        "page_refs": [
+          "14"
+        ]
+      }
+    },
+    {
+      "category": "FOUNDATION",
+      "description": "Synthetic wood siding observed on house - it is common industry knowledge that this siding tends to rot easily if not kept well sealed/painted and that most manufacturers of this type of product are/have been involved in some type of class action lawsuit.",
+      "qty": 1,
+      "unit_price_usd": 1100,
+      "line_total_usd": 1100,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 40,
+      "original_issue": {
+        "section": "Structural Systems",
+        "suggested_category": "FOUNDATION",
+        "title": "Synthetic wood siding prone to rot",
+        "description": "Synthetic wood siding observed on house - it is common industry knowledge that this siding tends to rot easily if not kept well sealed/painted and that most manufacturers of this type of product are/have been involved in some type of class action lawsuit.",
+        "severity": "Deficient",
+        "estimated_fix": "Monitor",
+        "location": "Exterior",
+        "page_refs": [
+          "14"
+        ]
+      }
+    },
+    {
+      "category": "FOUNDATION",
+      "description": "Most siding installation requirements specifically state \"Leave a 2-inch clearance at bottom edge of siding to prevent water damage / water penetration.",
+      "qty": 1,
+      "unit_price_usd": 1275,
+      "line_total_usd": 1275,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 41,
+      "original_issue": {
+        "section": "Structural Systems",
+        "suggested_category": "FOUNDATION",
+        "title": "Improper siding clearance from grade",
+        "description": "Most siding installation requirements specifically state \"Leave a 2-inch clearance at bottom edge of siding to prevent water damage / water penetration.",
+        "severity": "Deficient",
+        "estimated_fix": "Repair",
+        "location": "Exterior",
+        "page_refs": [
+          "14"
+        ]
+      }
+    },
+    {
+      "category": "FOUNDATION",
+      "description": "Caulking missing and/or deficient around windows/doors/vertical trim/joints in siding. May allow wind driven rain entry.",
+      "qty": 1,
+      "unit_price_usd": 1125,
+      "line_total_usd": 1125,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 42,
+      "original_issue": {
+        "section": "Structural Systems",
+        "suggested_category": "FOUNDATION",
+        "title": "Missing or deficient caulking",
+        "description": "Caulking missing and/or deficient around windows/doors/vertical trim/joints in siding. May allow wind driven rain entry.",
+        "severity": "Deficient",
+        "estimated_fix": "Repair",
+        "location": "Exterior",
+        "page_refs": [
+          "14"
+        ]
+      }
+    },
+    {
+      "category": "FOUNDATION",
+      "description": "Need sealing/caulking around all holes and exterior siding penetrations on top and both sides, (leave the bottom open) to prevent water entry. Including but not limited to dryer, bath and range top vents, light fixtures, etc.",
+      "qty": 1,
+      "unit_price_usd": 1225,
+      "line_total_usd": 1225,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 43,
+      "original_issue": {
+        "section": "Structural Systems",
+        "suggested_category": "FOUNDATION",
+        "title": "Unsealed exterior penetrations",
+        "description": "Need sealing/caulking around all holes and exterior siding penetrations on top and both sides, (leave the bottom open) to prevent water entry. Including but not limited to dryer, bath and range top vents, light fixtures, etc.",
+        "severity": "Deficient",
+        "estimated_fix": "Repair",
+        "location": "Exterior",
+        "page_refs": [
+          "14"
+        ]
+      }
+    },
+    {
+      "category": "FOUNDATION",
+      "description": "Recommend sealing/foaming exterior where AC lines enter the house. A weatherproof hood can be added for maximum prevention of water penetration.",
+      "qty": 1,
+      "unit_price_usd": 1250,
+      "line_total_usd": 1250,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 44,
+      "original_issue": {
+        "section": "Structural Systems",
+        "suggested_category": "FOUNDATION",
+        "title": "Unsealed AC line penetration",
+        "description": "Recommend sealing/foaming exterior where AC lines enter the house. A weatherproof hood can be added for maximum prevention of water penetration.",
+        "severity": "Deficient",
+        "estimated_fix": "Repair",
+        "location": "Exterior",
+        "page_refs": [
+          "14"
+        ]
+      }
+    },
+    {
+      "category": "FOUNDATION",
+      "description": "Observed weep holes at bottom of the brick / stone wall are blocked and/or have been sealed over. Weep holes are needed to allow for proper drying of the wall cavity. Recommend clearing any blocked weep holes.",
+      "qty": 1,
+      "unit_price_usd": 1075,
+      "line_total_usd": 1075,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 45,
+      "original_issue": {
+        "section": "Structural Systems",
+        "suggested_category": "FOUNDATION",
+        "title": "Blocked or sealed weep holes",
+        "description": "Observed weep holes at bottom of the brick / stone wall are blocked and/or have been sealed over. Weep holes are needed to allow for proper drying of the wall cavity. Recommend clearing any blocked weep holes.",
+        "severity": "Deficient",
+        "estimated_fix": "Repair",
+        "location": "Exterior brick/stone wall",
+        "page_refs": [
+          "14"
+        ]
+      }
+    },
+    {
+      "category": "FOUNDATION",
+      "description": "Wood rot observed on areas of house/garage.",
+      "qty": 1,
+      "unit_price_usd": 1175,
+      "line_total_usd": 1175,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 46,
+      "original_issue": {
+        "section": "Structural Systems",
+        "suggested_category": "FOUNDATION",
+        "title": "Wood rot on house and garage",
+        "description": "Wood rot observed on areas of house/garage.",
+        "severity": "Deficient",
+        "estimated_fix": "Repair",
+        "location": "House/garage",
+        "page_refs": [
+          "14"
+        ]
+      }
+    },
+    {
+      "category": "FOUNDATION",
+      "description": "Trim / siding observed to be not secured down at one or more areas of house/garage.",
+      "qty": 1,
+      "unit_price_usd": 1100,
+      "line_total_usd": 1100,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 47,
+      "original_issue": {
+        "section": "Structural Systems",
+        "suggested_category": "FOUNDATION",
+        "title": "Trim and siding not secured",
+        "description": "Trim / siding observed to be not secured down at one or more areas of house/garage.",
+        "severity": "Deficient",
+        "estimated_fix": "Repair",
+        "location": "House/garage",
+        "page_refs": [
+          "14"
+        ]
+      }
+    },
+    {
+      "category": "FOUNDATION",
+      "description": "Gate does not close/ latch properly; side gate needs adjustment.",
+      "qty": 1,
+      "unit_price_usd": 1325,
+      "line_total_usd": 1325,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 48,
+      "original_issue": {
+        "section": "Structural Systems",
+        "suggested_category": "FOUNDATION",
+        "title": "Side gate does not close or latch properly",
+        "description": "Gate does not close/ latch properly; side gate needs adjustment.",
+        "severity": "Deficient",
+        "estimated_fix": "Repair",
+        "location": "Side gate",
+        "page_refs": [
+          "14"
+        ]
+      }
+    },
+    {
+      "category": "FOUNDATION",
+      "description": "Observed cosmetic cracks and/or repaired cracks in sheetrock observed in ceiling at one or more areas of house.",
+      "qty": 1,
+      "unit_price_usd": 1175,
+      "line_total_usd": 1175,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 49,
+      "original_issue": {
+        "section": "Structural Systems",
+        "suggested_category": "FOUNDATION",
+        "title": "Cosmetic cracks in ceiling sheetrock",
+        "description": "Observed cosmetic cracks and/or repaired cracks in sheetrock observed in ceiling at one or more areas of house.",
+        "severity": "Deficient",
+        "estimated_fix": "Repair",
+        "location": "Ceiling",
+        "page_refs": [
+          "17"
+        ]
+      }
+    },
+    {
+      "category": "FOUNDATION",
+      "description": "Observed popcorn type texture on one or more ceilings. Commonly installed from the late 1950s into the 1980s in residential construction with early formulations often containing asbestos fibers. Fox Residential Service group does not test for the presence of asbestos or other environmental hazards. If this is a concern or may become a concern for you, please contact a qualified professional for further information.",
+      "qty": 1,
+      "unit_price_usd": 1100,
+      "line_total_usd": 1100,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 50,
+      "original_issue": {
+        "section": "Structural Systems",
+        "suggested_category": "FOUNDATION",
+        "title": "Popcorn ceiling texture may contain asbestos",
+        "description": "Observed popcorn type texture on one or more ceilings. Commonly installed from the late 1950s into the 1980s in residential construction with early formulations often containing asbestos fibers. Fox Residential Service group does not test for the presence of asbestos or other environmental hazards. If this is a concern or may become a concern for you, please contact a qualified professional for further information.",
+        "severity": "Deficient",
+        "estimated_fix": "Further Investigation",
+        "location": "Ceiling",
+        "page_refs": [
+          "17"
+        ]
+      }
+    },
+    {
+      "category": "FOUNDATION",
+      "description": "Floor squeaks/ pops noted.",
+      "qty": 1,
+      "unit_price_usd": 1075,
+      "line_total_usd": 1075,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 51,
+      "original_issue": {
+        "section": "Structural Systems",
+        "suggested_category": "FOUNDATION",
+        "title": "Floor squeaks and pops noted",
+        "description": "Floor squeaks/ pops noted.",
+        "severity": "Deficient",
+        "estimated_fix": "Repair",
+        "location": "Floors",
+        "page_refs": [
+          "17"
+        ]
+      }
+    },
+    {
+      "category": "FOUNDATION",
+      "description": "Water stains, damage or repairs observed, moisture meter indicated that stains are not active (wet) at the time of inspection; garage, primary bathroom closet, primary bathroom",
+      "qty": 1,
+      "unit_price_usd": 1200,
+      "line_total_usd": 1200,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 52,
+      "original_issue": {
+        "section": "Structural Systems",
+        "suggested_category": "FOUNDATION",
+        "title": "Water stains observed on ceilings",
+        "description": "Water stains, damage or repairs observed, moisture meter indicated that stains are not active (wet) at the time of inspection; garage, primary bathroom closet, primary bathroom",
+        "severity": "Deficient",
+        "estimated_fix": "Repair",
+        "location": "Garage, primary bathroom closet, primary bathroom",
+        "page_refs": [
+          "17"
+        ]
+      }
+    },
+    {
+      "category": "FOUNDATION",
+      "description": "Not level upstairs, possibly due to improper/inadequate framing and/ or foundation settlement.",
+      "qty": 1,
+      "unit_price_usd": 1150,
+      "line_total_usd": 1150,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 53,
+      "original_issue": {
+        "section": "Structural Systems",
+        "suggested_category": "FOUNDATION",
+        "title": "Upstairs floors not level",
+        "description": "Not level upstairs, possibly due to improper/inadequate framing and/ or foundation settlement.",
+        "severity": "Deficient",
+        "estimated_fix": "Further Investigation",
+        "location": "Upstairs",
+        "page_refs": [
+          "17"
+        ]
+      }
+    },
+    {
+      "category": "WINDOWS/DOORS",
+      "description": "Door between house and garage does not have an operational auto/self-closing device.",
+      "qty": 1,
+      "unit_price_usd": 425,
+      "line_total_usd": 425,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 54,
+      "original_issue": {
+        "section": "Structural Systems",
+        "suggested_category": "WINDOWS/DOORS",
+        "title": "Missing self-closing device on garage door",
+        "description": "Door between house and garage does not have an operational auto/self-closing device.",
+        "severity": "Deficient",
+        "estimated_fix": "Repair",
+        "location": "Door between house and garage",
+        "page_refs": [
+          "18"
+        ]
+      }
+    },
+    {
+      "category": "WINDOWS/DOORS",
+      "description": "Rubber sweep at base of exterior door is beginning to deteriorate.",
+      "qty": 1,
+      "unit_price_usd": 375,
+      "line_total_usd": 375,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 55,
+      "original_issue": {
+        "section": "Structural Systems",
+        "suggested_category": "WINDOWS/DOORS",
+        "title": "Deteriorating exterior door sweep",
+        "description": "Rubber sweep at base of exterior door is beginning to deteriorate.",
+        "severity": "Deficient",
+        "estimated_fix": "Repair",
+        "location": "Exterior door",
+        "page_refs": [
+          "18"
+        ]
+      }
+    },
+    {
+      "category": "WINDOWS/DOORS",
+      "description": "Exterior door does not have thumb latch to unlock door. All egress doors shall be opened from the inside without use of a key or special knowledge or effort. 2021 IRC R311.2.",
+      "qty": 1,
+      "unit_price_usd": 400,
+      "line_total_usd": 400,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 56,
+      "original_issue": {
+        "section": "Structural Systems",
+        "suggested_category": "WINDOWS/DOORS",
+        "title": "Exterior door missing thumb latch",
+        "description": "Exterior door does not have thumb latch to unlock door. All egress doors shall be opened from the inside without use of a key or special knowledge or effort. 2021 IRC R311.2.",
+        "severity": "Deficient",
+        "estimated_fix": "Repair",
+        "location": "Exterior door",
+        "page_refs": [
+          "18"
+        ]
+      }
+    },
+    {
+      "category": "WINDOWS/DOORS",
+      "description": "Security consideration - exterior door(s) without deadbolt lock(s).",
+      "qty": 1,
+      "unit_price_usd": 425,
+      "line_total_usd": 425,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 57,
+      "original_issue": {
+        "section": "Structural Systems",
+        "suggested_category": "WINDOWS/DOORS",
+        "title": "Exterior doors without deadbolt locks",
+        "description": "Security consideration - exterior door(s) without deadbolt lock(s).",
+        "severity": "Deficient",
+        "estimated_fix": "Repair",
+        "location": "Exterior doors",
+        "page_refs": [
+          "18"
+        ]
+      }
+    },
+    {
+      "category": "WINDOWS/DOORS",
+      "description": "One or more doors in the house will not latch; garage door",
+      "qty": 1,
+      "unit_price_usd": 400,
+      "line_total_usd": 400,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 58,
+      "original_issue": {
+        "section": "Structural Systems",
+        "suggested_category": "WINDOWS/DOORS",
+        "title": "Door will not latch",
+        "description": "One or more doors in the house will not latch; garage door",
+        "severity": "Deficient",
+        "estimated_fix": "Repair",
+        "location": "Garage door",
+        "page_refs": [
+          "18"
+        ]
+      }
+    },
+    {
+      "category": "WINDOWS/DOORS",
+      "description": "Wood rot of lower door and/or jamb;multiple locations",
+      "qty": 1,
+      "unit_price_usd": 425,
+      "line_total_usd": 425,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 59,
+      "original_issue": {
+        "section": "Structural Systems",
+        "suggested_category": "WINDOWS/DOORS",
+        "title": "Wood rot on lower door and/or jamb",
+        "description": "Wood rot of lower door and/or jamb;multiple locations",
+        "severity": "Deficient",
+        "estimated_fix": "Repair",
+        "location": "Multiple locations",
+        "page_refs": [
+          "18"
+        ]
+      }
+    },
+    {
+      "category": "WINDOWS/DOORS",
+      "description": "Door is self-opening/closing. This is an indication door/jamb is not level/plumb;primary bedroom",
+      "qty": 1,
+      "unit_price_usd": 400,
+      "line_total_usd": 400,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 60,
+      "original_issue": {
+        "section": "Structural Systems",
+        "suggested_category": "WINDOWS/DOORS",
+        "title": "Self-opening/closing interior door",
+        "description": "Door is self-opening/closing. This is an indication door/jamb is not level/plumb;primary bedroom",
+        "severity": "Deficient",
+        "estimated_fix": "Repair",
+        "location": "Primary bedroom",
+        "page_refs": [
+          "18"
+        ]
+      }
+    },
+    {
+      "category": "WINDOWS/DOORS",
+      "description": "Could not find/observe markings on glass panels of the door(s) at the base of the stairway to indicate the presence of safety/tempered glass which is a recognized safety hazard and code requirement. Per UBC 2406.4, IRC 308.4.11.",
+      "qty": 1,
+      "unit_price_usd": 425,
+      "line_total_usd": 425,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 61,
+      "original_issue": {
+        "section": "Structural Systems",
+        "suggested_category": "WINDOWS/DOORS",
+        "title": "Safety glass not identified",
+        "description": "Could not find/observe markings on glass panels of the door(s) at the base of the stairway to indicate the presence of safety/tempered glass which is a recognized safety hazard and code requirement. Per UBC 2406.4, IRC 308.4.11.",
+        "severity": "Deficient",
+        "estimated_fix": "Further Investigation",
+        "location": "Door(s) at the base of the stairway",
+        "page_refs": [
+          "19"
+        ]
+      }
+    },
+    {
+      "category": "WINDOWS/DOORS",
+      "description": "One or more windows had cracked/broken glass pane(s);guest bedroom, entry door",
+      "qty": 1,
+      "unit_price_usd": 375,
+      "line_total_usd": 375,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 62,
+      "original_issue": {
+        "section": "Structural Systems",
+        "suggested_category": "WINDOWS/DOORS",
+        "title": "Cracked or broken window glass",
+        "description": "One or more windows had cracked/broken glass pane(s);guest bedroom, entry door",
+        "severity": "Deficient",
+        "estimated_fix": "Replace",
+        "location": "Guest bedroom, entry door",
+        "page_refs": [
+          "19"
+        ]
+      }
+    },
+    {
+      "category": "WINDOWS/DOORS",
+      "description": "One or more windows were difficult to open / close / operate.",
+      "qty": 1,
+      "unit_price_usd": 425,
+      "line_total_usd": 425,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 63,
+      "original_issue": {
+        "section": "Structural Systems",
+        "suggested_category": "WINDOWS/DOORS",
+        "title": "Windows difficult to operate",
+        "description": "One or more windows were difficult to open / close / operate.",
+        "severity": "Deficient",
+        "estimated_fix": "Repair",
+        "location": "Not specified",
+        "page_refs": [
+          "19"
+        ]
+      }
+    },
+    {
+      "category": "WINDOWS/DOORS",
+      "description": "One or more window plastic exterior retaining strips are loose or damaged.",
+      "qty": 1,
+      "unit_price_usd": 400,
+      "line_total_usd": 400,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 64,
+      "original_issue": {
+        "section": "Structural Systems",
+        "suggested_category": "WINDOWS/DOORS",
+        "title": "Loose or damaged window retaining strips",
+        "description": "One or more window plastic exterior retaining strips are loose or damaged.",
+        "severity": "Deficient",
+        "estimated_fix": "Repair",
+        "location": "Not specified",
+        "page_refs": [
+          "19"
+        ]
+      }
+    },
+    {
+      "category": "WINDOWS/DOORS",
+      "description": "Multiple screens are missing and/or damaged.",
+      "qty": 1,
+      "unit_price_usd": 375,
+      "line_total_usd": 375,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 65,
+      "original_issue": {
+        "section": "Structural Systems",
+        "suggested_category": "WINDOWS/DOORS",
+        "title": "Missing or damaged window screens",
+        "description": "Multiple screens are missing and/or damaged.",
+        "severity": "Deficient",
+        "estimated_fix": "Repair",
+        "location": "Not specified",
+        "page_refs": [
+          "19"
+        ]
+      }
+    },
+    {
+      "category": "FOUNDATION",
+      "description": "Storm collar needs caulking on the chimney.",
+      "qty": 1,
+      "unit_price_usd": 1100,
+      "line_total_usd": 1100,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 66,
+      "original_issue": {
+        "section": "Structural Systems",
+        "suggested_category": "FOUNDATION",
+        "title": "Chimney storm collar needs caulking",
+        "description": "Storm collar needs caulking on the chimney.",
+        "severity": "Deficient",
+        "estimated_fix": "Repair",
+        "location": "Chimney",
+        "page_refs": [
+          "20"
+        ]
+      }
+    },
+    {
+      "category": "FOUNDATION",
+      "description": "Soot build-up in the firebox / flue should be cleaned by a qualified chimney sweep.",
+      "qty": 1,
+      "unit_price_usd": 1175,
+      "line_total_usd": 1175,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 67,
+      "original_issue": {
+        "section": "Structural Systems",
+        "suggested_category": "FOUNDATION",
+        "title": "Soot build-up in firebox/flue",
+        "description": "Soot build-up in the firebox / flue should be cleaned by a qualified chimney sweep.",
+        "severity": "Deficient",
+        "estimated_fix": "Repair",
+        "location": "Firebox / flue",
+        "page_refs": [
+          "20"
+        ]
+      }
+    },
+    {
+      "category": "FOUNDATION",
+      "description": "Brick cracks observed in firebox or hearth of fireplace, repair is recommended.",
+      "qty": 1,
+      "unit_price_usd": 1300,
+      "line_total_usd": 1300,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 68,
+      "original_issue": {
+        "section": "Structural Systems",
+        "suggested_category": "FOUNDATION",
+        "title": "Brick cracks in firebox or hearth",
+        "description": "Brick cracks observed in firebox or hearth of fireplace, repair is recommended.",
+        "severity": "Deficient",
+        "estimated_fix": "Repair",
+        "location": "Firebox or hearth",
+        "page_refs": [
+          "20"
+        ]
+      }
+    },
+    {
+      "category": "FOUNDATION",
+      "description": "Space between railings does not comply with current industry standard, Per IRC 312.2, UBCA 421.1.1, Requires spacing between intermediate rails do not allow passage of an object four inches in diameter. Recommend covering large openings in stair rails with temporary type nylon netting if small children are present in the house to prevent injury.",
+      "qty": 1,
+      "unit_price_usd": 1275,
+      "line_total_usd": 1275,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 69,
+      "original_issue": {
+        "section": "Structural Systems",
+        "suggested_category": "FOUNDATION",
+        "title": "Improper stairway railing spacing",
+        "description": "Space between railings does not comply with current industry standard, Per IRC 312.2, UBCA 421.1.1, Requires spacing between intermediate rails do not allow passage of an object four inches in diameter. Recommend covering large openings in stair rails with temporary type nylon netting if small children are present in the house to prevent injury.",
+        "severity": "Deficient",
+        "estimated_fix": "Repair",
+        "location": "Interior",
+        "page_refs": [
+          "20"
+        ]
+      }
+    },
+    {
+      "category": "MISCELLANEOUS",
+      "description": "High soil / foliage / patio / deck obscures the view of foundation and prevents visual inspection for termite and/or water penetration.",
+      "qty": 1,
+      "unit_price_usd": 525,
+      "line_total_usd": 525,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 70,
+      "original_issue": {
+        "section": "Structural Systems",
+        "suggested_category": "MISCELLANEOUS",
+        "title": "Obscured view of foundation",
+        "description": "High soil / foliage / patio / deck obscures the view of foundation and prevents visual inspection for termite and/or water penetration.",
+        "severity": "Deficient",
+        "estimated_fix": "Repair",
+        "location": "Foundation perimeter",
+        "page_refs": [
+          "21"
+        ]
+      }
+    },
+    {
+      "category": "MISCELLANEOUS",
+      "description": "Could not verify the method of attachment used to secure the patio cover / awning to the structure.",
+      "qty": 1,
+      "unit_price_usd": 525,
+      "line_total_usd": 525,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 71,
+      "original_issue": {
+        "section": "Structural Systems",
+        "suggested_category": "MISCELLANEOUS",
+        "title": "Unverified patio cover attachment",
+        "description": "Could not verify the method of attachment used to secure the patio cover / awning to the structure.",
+        "severity": "Deficient",
+        "estimated_fix": "Further Investigation",
+        "location": "Patio cover / awning",
+        "page_refs": [
+          "21"
+        ]
+      }
+    },
+    {
+      "category": "MISCELLANEOUS",
+      "description": "Tripping hazard, there is no contrasting color at the raised section near the porch.",
+      "qty": 1,
+      "unit_price_usd": 475,
+      "line_total_usd": 475,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 72,
+      "original_issue": {
+        "section": "Structural Systems",
+        "suggested_category": "MISCELLANEOUS",
+        "title": "Tripping hazard at porch",
+        "description": "Tripping hazard, there is no contrasting color at the raised section near the porch.",
+        "severity": "Deficient",
+        "estimated_fix": "Repair",
+        "location": "Porch",
+        "page_refs": [
+          "21"
+        ]
+      }
+    },
+    {
+      "category": "MISCELLANEOUS",
+      "description": "Tripping hazard(s) - walks and/or driveways are uneven and/or damaged in multiple areas.",
+      "qty": 1,
+      "unit_price_usd": 475,
+      "line_total_usd": 475,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 73,
+      "original_issue": {
+        "section": "Structural Systems",
+        "suggested_category": "MISCELLANEOUS",
+        "title": "Tripping hazard on walks/driveways",
+        "description": "Tripping hazard(s) - walks and/or driveways are uneven and/or damaged in multiple areas.",
+        "severity": "Deficient",
+        "estimated_fix": "Repair",
+        "location": "Walks and/or driveways",
+        "page_refs": [
+          "21"
+        ]
+      }
+    },
+    {
+      "category": "ELECTRICAL",
+      "description": "The brand of the electrical service panel is Federal Pacific. This make of panel is known for difficult to find and more costly to replace breakers. Also, this panel is associated with a higher incidence of failures/safety problems. If additional information is needed, recommend a qualified electrician be consulted. Replacement of panel highly recommended as an upgrade/safety improvement.",
+      "qty": 1,
+      "unit_price_usd": 450,
+      "line_total_usd": 450,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 74,
+      "original_issue": {
+        "section": "Electrical Systems",
+        "suggested_category": "ELECTRICAL",
+        "title": "Federal Pacific electrical panel",
+        "description": "The brand of the electrical service panel is Federal Pacific. This make of panel is known for difficult to find and more costly to replace breakers. Also, this panel is associated with a higher incidence of failures/safety problems. If additional information is needed, recommend a qualified electrician be consulted. Replacement of panel highly recommended as an upgrade/safety improvement.",
+        "severity": "Deficient",
+        "estimated_fix": "Replace",
+        "location": "Main Service Panel",
+        "page_refs": [
+          "22"
+        ]
+      }
+    },
+    {
+      "category": "ELECTRICAL",
+      "description": "Not all breakers are properly identified. Per NEC E3606.2",
+      "qty": 1,
+      "unit_price_usd": 500,
+      "line_total_usd": 500,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 75,
+      "original_issue": {
+        "section": "Electrical Systems",
+        "suggested_category": "ELECTRICAL",
+        "title": "Breakers not properly identified",
+        "description": "Not all breakers are properly identified. Per NEC E3606.2",
+        "severity": "Deficient",
+        "estimated_fix": "Repair",
+        "location": "Main Service Panel",
+        "page_refs": [
+          "22"
+        ]
+      }
+    },
+    {
+      "category": "ELECTRICAL",
+      "description": "Dead front missing one or more securing screws. Need to ensure screws used do not have sharp/pointed ends that can penetrate live electrical wiring behind the dead-front and cause shock, fire, serious injury.",
+      "qty": 1,
+      "unit_price_usd": 500,
+      "line_total_usd": 500,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 76,
+      "original_issue": {
+        "section": "Electrical Systems",
+        "suggested_category": "ELECTRICAL",
+        "title": "Missing dead front securing screws",
+        "description": "Dead front missing one or more securing screws. Need to ensure screws used do not have sharp/pointed ends that can penetrate live electrical wiring behind the dead-front and cause shock, fire, serious injury.",
+        "severity": "Deficient",
+        "estimated_fix": "Repair",
+        "location": "Main Service Panel",
+        "page_refs": [
+          "22"
+        ]
+      }
+    },
+    {
+      "category": "ELECTRICAL",
+      "description": "Metal conduit chase not properly bonded or concentric circle is missing. NEC 250.92(B)",
+      "qty": 1,
+      "unit_price_usd": 550,
+      "line_total_usd": 550,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 77,
+      "original_issue": {
+        "section": "Electrical Systems",
+        "suggested_category": "ELECTRICAL",
+        "title": "Improperly bonded metal conduit chase",
+        "description": "Metal conduit chase not properly bonded or concentric circle is missing. NEC 250.92(B)",
+        "severity": "Deficient",
+        "estimated_fix": "Repair",
+        "location": "Main Service Panel",
+        "page_refs": [
+          "22"
+        ]
+      }
+    },
+    {
+      "category": "ELECTRICAL",
+      "description": "There was no surge protector observed on the breaker panel, IRC 3606.5. Homes built before 2021 generally were not required to have surge protection. However, the current TREC standard of practice requires inspectors to indicate that a hazardous or deficient condition exists if any home does not have this protection, regardless of the date the home was constructed.",
+      "qty": 1,
+      "unit_price_usd": 525,
+      "line_total_usd": 525,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 78,
+      "original_issue": {
+        "section": "Electrical Systems",
+        "suggested_category": "ELECTRICAL",
+        "title": "No surge protector observed",
+        "description": "There was no surge protector observed on the breaker panel, IRC 3606.5. Homes built before 2021 generally were not required to have surge protection. However, the current TREC standard of practice requires inspectors to indicate that a hazardous or deficient condition exists if any home does not have this protection, regardless of the date the home was constructed.",
+        "severity": "Deficient",
+        "estimated_fix": "Repair",
+        "location": "Main Service Panel",
+        "page_refs": [
+          "22"
+        ]
+      }
+    },
+    {
+      "category": "ELECTRICAL",
+      "description": "Service panel and the electrical meter were not secured to the wall properly at the time of the inspection. - shock hazard.",
+      "qty": 1,
+      "unit_price_usd": 450,
+      "line_total_usd": 450,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 79,
+      "original_issue": {
+        "section": "Electrical Systems",
+        "suggested_category": "ELECTRICAL",
+        "title": "Service panel and meter not secured",
+        "description": "Service panel and the electrical meter were not secured to the wall properly at the time of the inspection. - shock hazard.",
+        "severity": "Deficient",
+        "estimated_fix": "Repair",
+        "location": "West Exterior Wall",
+        "page_refs": [
+          "22"
+        ]
+      }
+    },
+    {
+      "category": "ELECTRICAL",
+      "description": "The service panel dead-front is not secured in place.",
+      "qty": 1,
+      "unit_price_usd": 500,
+      "line_total_usd": 500,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 80,
+      "original_issue": {
+        "section": "Electrical Systems",
+        "suggested_category": "ELECTRICAL",
+        "title": "Service panel dead-front not secured",
+        "description": "The service panel dead-front is not secured in place.",
+        "severity": "Deficient",
+        "estimated_fix": "Repair",
+        "location": "Main Service Panel",
+        "page_refs": [
+          "23"
+        ]
+      }
+    },
+    {
+      "category": "ELECTRICAL",
+      "description": "Did not observe installed AFCI (Arc Fault Circuit Interrupter) device protection, as required by current building standards, for all: family rooms, dining rooms, living rooms, parlors, libraries, dens, bedrooms, sunrooms, recreation rooms, closets, hallways, or similar rooms or areas. AFCI devices are intended to protect against fires caused by electrical arcing faults in the home's wiring. Arc faults are a common cause of residential electrical fires. Arc faults can be created by damaged, deteriorated, or worn electrical plugs, cords, and/or branch circuit conductors. As of September 1, 2008, the State of Texas has adopted the 2005 NEC, which includes this requirement, as the \"minimum standard\" for all non-exempt electrical work. Homes built before 2002, generally were not required to have arc fault protection. However, the current TREC standard of practice requires inspectors to indicate that a hazardous or deficient condition exists if any home does not have this protection, regardless of the date the home was constructed.",
+      "qty": 1,
+      "unit_price_usd": 450,
+      "line_total_usd": 450,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 81,
+      "original_issue": {
+        "section": "Electrical Systems",
+        "suggested_category": "ELECTRICAL",
+        "title": "Missing AFCI device protection",
+        "description": "Did not observe installed AFCI (Arc Fault Circuit Interrupter) device protection, as required by current building standards, for all: family rooms, dining rooms, living rooms, parlors, libraries, dens, bedrooms, sunrooms, recreation rooms, closets, hallways, or similar rooms or areas. AFCI devices are intended to protect against fires caused by electrical arcing faults in the home's wiring. Arc faults are a common cause of residential electrical fires. Arc faults can be created by damaged, deteriorated, or worn electrical plugs, cords, and/or branch circuit conductors. As of September 1, 2008, the State of Texas has adopted the 2005 NEC, which includes this requirement, as the \"minimum standard\" for all non-exempt electrical work. Homes built before 2002, generally were not required to have arc fault protection. However, the current TREC standard of practice requires inspectors to indicate that a hazardous or deficient condition exists if any home does not have this protection, regardless of the date the home was constructed.",
+        "severity": "Deficient",
+        "estimated_fix": "Repair",
+        "location": "Main Service Panel",
+        "page_refs": [
+          "23"
+        ]
+      }
+    },
+    {
+      "category": "ELECTRICAL",
+      "description": "Ground clamp is loose and/or not secured properly to acorn clamp/rod.",
+      "qty": 1,
+      "unit_price_usd": 525,
+      "line_total_usd": 525,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 82,
+      "original_issue": {
+        "section": "Electrical Systems",
+        "suggested_category": "ELECTRICAL",
+        "title": "Loose ground clamp",
+        "description": "Ground clamp is loose and/or not secured properly to acorn clamp/rod.",
+        "severity": "Deficient",
+        "estimated_fix": "Repair",
+        "location": "Main Service Panel",
+        "page_refs": [
+          "23"
+        ]
+      }
+    },
+    {
+      "category": "ELECTRICAL",
+      "description": "Observed two or more neutral conductors under one screw lug on neutral bus. Current industry standards and NEC permit one neutral conductor per screw lug.",
+      "qty": 1,
+      "unit_price_usd": 525,
+      "line_total_usd": 525,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 83,
+      "original_issue": {
+        "section": "Electrical Systems",
+        "suggested_category": "ELECTRICAL",
+        "title": "Double-lugged neutral conductors",
+        "description": "Observed two or more neutral conductors under one screw lug on neutral bus. Current industry standards and NEC permit one neutral conductor per screw lug.",
+        "severity": "Deficient",
+        "estimated_fix": "Repair",
+        "location": "Main Service Panel",
+        "page_refs": [
+          "23"
+        ]
+      }
+    },
+    {
+      "category": "ELECTRICAL",
+      "description": "There was no GFCI protection observed at all required locations, including but not limited to; all bathrooms, kitchen counter top outlets, exterior outlets, in the garage, etc. This condition is a recognized hazard and should be corrected by a licensed electrician.",
+      "qty": 1,
+      "unit_price_usd": 475,
+      "line_total_usd": 475,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 84,
+      "original_issue": {
+        "section": "Electrical Systems",
+        "suggested_category": "ELECTRICAL",
+        "title": "Missing GFCI protection",
+        "description": "There was no GFCI protection observed at all required locations, including but not limited to; all bathrooms, kitchen counter top outlets, exterior outlets, in the garage, etc. This condition is a recognized hazard and should be corrected by a licensed electrician.",
+        "severity": "Deficient",
+        "estimated_fix": "Repair",
+        "location": "Bathrooms, kitchen counter top, exterior, garage",
+        "page_refs": [
+          "25"
+        ]
+      }
+    },
+    {
+      "category": "ELECTRICAL",
+      "description": "Observed open incandescent type light fixtures in one or more closets which are considered a potential fire hazard by today's standards. Per IRC 3903.11.",
+      "qty": 1,
+      "unit_price_usd": 550,
+      "line_total_usd": 550,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 85,
+      "original_issue": {
+        "section": "Electrical Systems",
+        "suggested_category": "ELECTRICAL",
+        "title": "Open incandescent light fixtures in closets",
+        "description": "Observed open incandescent type light fixtures in one or more closets which are considered a potential fire hazard by today's standards. Per IRC 3903.11.",
+        "severity": "Deficient",
+        "estimated_fix": "Replace",
+        "location": "Closets",
+        "page_refs": [
+          "25"
+        ]
+      }
+    },
+    {
+      "category": "ELECTRICAL",
+      "description": "Light diffuser / globe cracked, damaged or missing; exterior light fixtures",
+      "qty": 1,
+      "unit_price_usd": 475,
+      "line_total_usd": 475,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 86,
+      "original_issue": {
+        "section": "Electrical Systems",
+        "suggested_category": "ELECTRICAL",
+        "title": "Damaged exterior light diffuser/globe",
+        "description": "Light diffuser / globe cracked, damaged or missing; exterior light fixtures",
+        "severity": "Deficient",
+        "estimated_fix": "Replace",
+        "location": "Exterior light fixtures",
+        "page_refs": [
+          "25"
+        ]
+      }
+    },
+    {
+      "category": "ELECTRICAL",
+      "description": "All exterior outlets whether in use or not are required to have in use weather proof cover per September 1st 2014 NEC Code Change.",
+      "qty": 1,
+      "unit_price_usd": 500,
+      "line_total_usd": 500,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 87,
+      "original_issue": {
+        "section": "Electrical Systems",
+        "suggested_category": "ELECTRICAL",
+        "title": "Missing weatherproof covers on exterior outlets",
+        "description": "All exterior outlets whether in use or not are required to have in use weather proof cover per September 1st 2014 NEC Code Change.",
+        "severity": "Deficient",
+        "estimated_fix": "Repair",
+        "location": "Exterior outlets",
+        "page_refs": [
+          "25"
+        ]
+      }
+    },
+    {
+      "category": "ELECTRICAL",
+      "description": "Outlet(s) found to be worn, does not hold the plug securely. Recommend replacement, including but not limited to;guest bedroom",
+      "qty": 1,
+      "unit_price_usd": 550,
+      "line_total_usd": 550,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 88,
+      "original_issue": {
+        "section": "Electrical Systems",
+        "suggested_category": "ELECTRICAL",
+        "title": "Worn outlets do not hold plug securely",
+        "description": "Outlet(s) found to be worn, does not hold the plug securely. Recommend replacement, including but not limited to;guest bedroom",
+        "severity": "Deficient",
+        "estimated_fix": "Replace",
+        "location": "Guest bedroom",
+        "page_refs": [
+          "25"
+        ]
+      }
+    },
+    {
+      "category": "ELECTRICAL",
+      "description": "Pull string light fixture defective;guest bedroom closet",
+      "qty": 1,
+      "unit_price_usd": 500,
+      "line_total_usd": 500,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 89,
+      "original_issue": {
+        "section": "Electrical Systems",
+        "suggested_category": "ELECTRICAL",
+        "title": "Defective pull string light fixture",
+        "description": "Pull string light fixture defective;guest bedroom closet",
+        "severity": "Deficient",
+        "estimated_fix": "Repair",
+        "location": "Guest bedroom closet",
+        "page_refs": [
+          "25"
+        ]
+      }
+    },
+    {
+      "category": "ELECTRICAL",
+      "description": "One or more ceiling fan(s) were found to be not grounded.",
+      "qty": 1,
+      "unit_price_usd": 475,
+      "line_total_usd": 475,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 90,
+      "original_issue": {
+        "section": "Electrical Systems",
+        "suggested_category": "ELECTRICAL",
+        "title": "Ungrounded ceiling fans",
+        "description": "One or more ceiling fan(s) were found to be not grounded.",
+        "severity": "Deficient",
+        "estimated_fix": "Repair",
+        "location": "Not specified",
+        "page_refs": [
+          "25"
+        ]
+      }
+    },
+    {
+      "category": "ELECTRICAL",
+      "description": "Light(s) found to be not functioning. Probably just a burned-out bulb, or it could be a broken fixture/switch or improper wiring. Including but not limited to;XXXX",
+      "qty": 1,
+      "unit_price_usd": 525,
+      "line_total_usd": 525,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 91,
+      "original_issue": {
+        "section": "Electrical Systems",
+        "suggested_category": "ELECTRICAL",
+        "title": "Non-functioning lights",
+        "description": "Light(s) found to be not functioning. Probably just a burned-out bulb, or it could be a broken fixture/switch or improper wiring. Including but not limited to;XXXX",
+        "severity": "Deficient",
+        "estimated_fix": "Repair",
+        "location": "Not specified",
+        "page_refs": [
+          "25"
+        ]
+      }
+    },
+    {
+      "category": "ELECTRICAL",
+      "description": "One or more outlets are not secured well in the wall.",
+      "qty": 1,
+      "unit_price_usd": 550,
+      "line_total_usd": 550,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 92,
+      "original_issue": {
+        "section": "Electrical Systems",
+        "suggested_category": "ELECTRICAL",
+        "title": "Outlets not secured in wall",
+        "description": "One or more outlets are not secured well in the wall.",
+        "severity": "Deficient",
+        "estimated_fix": "Repair",
+        "location": "Not specified",
+        "page_refs": [
+          "25"
+        ]
+      }
+    },
+    {
+      "category": "ELECTRICAL",
+      "description": "One or more exterior outlet(s) not sealed well against rain water entry.",
+      "qty": 1,
+      "unit_price_usd": 475,
+      "line_total_usd": 475,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 93,
+      "original_issue": {
+        "section": "Electrical Systems",
+        "suggested_category": "ELECTRICAL",
+        "title": "Exterior outlet not sealed against rain",
+        "description": "One or more exterior outlet(s) not sealed well against rain water entry.",
+        "severity": "Deficient",
+        "estimated_fix": "Repair",
+        "location": "Exterior",
+        "page_refs": [
+          "26"
+        ]
+      }
+    },
+    {
+      "category": "ELECTRICAL",
+      "description": "Use of a voltage detector indicated switch(s) are not grounded as required by current industry standards (code) to reduce the risk of electrical shock. Before 1999, grounding of switches was not required. Recommend grounding all non-grounded switches or replace all metal face plates and screws with plastic face plates and screws.",
+      "qty": 1,
+      "unit_price_usd": 475,
+      "line_total_usd": 475,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 94,
+      "original_issue": {
+        "section": "Electrical Systems",
+        "suggested_category": "ELECTRICAL",
+        "title": "Ungrounded light switches",
+        "description": "Use of a voltage detector indicated switch(s) are not grounded as required by current industry standards (code) to reduce the risk of electrical shock. Before 1999, grounding of switches was not required. Recommend grounding all non-grounded switches or replace all metal face plates and screws with plastic face plates and screws.",
+        "severity": "Deficient",
+        "estimated_fix": "Repair",
+        "location": "Not specified",
+        "page_refs": [
+          "26"
+        ]
+      }
+    },
+    {
+      "category": "ELECTRICAL",
+      "description": "Observed one or more smoke alarms not secured in position.",
+      "qty": 1,
+      "unit_price_usd": 500,
+      "line_total_usd": 500,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 95,
+      "original_issue": {
+        "section": "Electrical Systems",
+        "suggested_category": "ELECTRICAL",
+        "title": "Smoke alarms not secured in position",
+        "description": "Observed one or more smoke alarms not secured in position.",
+        "severity": "Deficient",
+        "estimated_fix": "Repair",
+        "location": "Not specified",
+        "page_refs": [
+          "26"
+        ]
+      }
+    },
+    {
+      "category": "ELECTRICAL",
+      "description": "Smoke detectors are not interconnected. The actuation of one alarm will not actuate all the alarms in the house/unit.",
+      "qty": 1,
+      "unit_price_usd": 525,
+      "line_total_usd": 525,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 96,
+      "original_issue": {
+        "section": "Electrical Systems",
+        "suggested_category": "ELECTRICAL",
+        "title": "Smoke detectors are not interconnected",
+        "description": "Smoke detectors are not interconnected. The actuation of one alarm will not actuate all the alarms in the house/unit.",
+        "severity": "Deficient",
+        "estimated_fix": "Repair",
+        "location": "Throughout house",
+        "page_refs": [
+          "26"
+        ]
+      }
+    },
+    {
+      "category": "ELECTRICAL",
+      "description": "Did not observe any CO (carbon monoxide) detectors in the home. We recommend the installation of (CO) detectors per the manufacturer's installation instructions in any home containing fuel-burning appliances.",
+      "qty": 1,
+      "unit_price_usd": 525,
+      "line_total_usd": 525,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 97,
+      "original_issue": {
+        "section": "Electrical Systems",
+        "suggested_category": "ELECTRICAL",
+        "title": "No CO detectors observed",
+        "description": "Did not observe any CO (carbon monoxide) detectors in the home. We recommend the installation of (CO) detectors per the manufacturer's installation instructions in any home containing fuel-burning appliances.",
+        "severity": "Deficient",
+        "estimated_fix": "Repair",
+        "location": "Throughout house",
+        "page_refs": [
+          "26"
+        ]
+      }
+    },
+    {
+      "category": "ELECTRICAL",
+      "description": "No electrical disconnect for electric water heater observed within sight. This does not comply with NEC 422.31(B)",
+      "qty": 1,
+      "unit_price_usd": 500,
+      "line_total_usd": 500,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 98,
+      "original_issue": {
+        "section": "Electrical Systems",
+        "suggested_category": "ELECTRICAL",
+        "title": "Missing electrical disconnect for water heater",
+        "description": "No electrical disconnect for electric water heater observed within sight. This does not comply with NEC 422.31(B)",
+        "severity": "Deficient",
+        "estimated_fix": "Repair",
+        "location": "Water heater",
+        "page_refs": [
+          "26"
+        ]
+      }
+    },
+    {
+      "category": "HVAC",
+      "description": "Some insulation missing and/or damaged on ducts in the attic.",
+      "qty": 1,
+      "unit_price_usd": 650,
+      "line_total_usd": 650,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 99,
+      "original_issue": {
+        "section": "Heating Equipment",
+        "suggested_category": "HVAC",
+        "title": "Missing or damaged duct insulation",
+        "description": "Some insulation missing and/or damaged on ducts in the attic.",
+        "severity": "Deficient",
+        "estimated_fix": "Repair",
+        "location": "Attic",
+        "page_refs": [
+          "30"
+        ]
+      }
+    },
+    {
+      "category": "HVAC",
+      "description": "One or more return air filters dirty.",
+      "qty": 1,
+      "unit_price_usd": 550,
+      "line_total_usd": 550,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 100,
+      "original_issue": {
+        "section": "Heating Equipment",
+        "suggested_category": "HVAC",
+        "title": "Dirty return air filters",
+        "description": "One or more return air filters dirty.",
+        "severity": "Deficient",
+        "estimated_fix": "Replace",
+        "location": "HVAC system",
+        "page_refs": [
+          "30"
+        ]
+      }
+    },
+    {
+      "category": "HVAC",
+      "description": "The return air chase is not properly sealed. This condition results in a very significant reduction in cooling capacity and substantially increased operating costs.",
+      "qty": 1,
+      "unit_price_usd": 575,
+      "line_total_usd": 575,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 101,
+      "original_issue": {
+        "section": "Heating Equipment",
+        "suggested_category": "HVAC",
+        "title": "Return air chase not properly sealed",
+        "description": "The return air chase is not properly sealed. This condition results in a very significant reduction in cooling capacity and substantially increased operating costs.",
+        "severity": "Deficient",
+        "estimated_fix": "Repair",
+        "location": "HVAC system",
+        "page_refs": [
+          "30"
+        ]
+      }
+    },
+    {
+      "category": "HVAC",
+      "description": "Recommend client consider having air ducts cleaned due to age of ducts and/or if return air chase is not sealed/airtight, especially if any future residents have allergies.",
+      "qty": 1,
+      "unit_price_usd": 650,
+      "line_total_usd": 650,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 102,
+      "original_issue": {
+        "section": "Heating Equipment",
+        "suggested_category": "HVAC",
+        "title": "Air ducts may need cleaning",
+        "description": "Recommend client consider having air ducts cleaned due to age of ducts and/or if return air chase is not sealed/airtight, especially if any future residents have allergies.",
+        "severity": "Deficient",
+        "estimated_fix": "Repair",
+        "location": "HVAC system",
+        "page_refs": [
+          "30"
+        ]
+      }
+    },
+    {
+      "category": "PLUMBING",
+      "description": "The water was turned off to unit at the time of inspection, this can indicate that the unit has a problem; 2nd floor guest bathroom",
+      "qty": 1,
+      "unit_price_usd": 425,
+      "line_total_usd": 425,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 103,
+      "original_issue": {
+        "section": "Plumbing System",
+        "suggested_category": "PLUMBING",
+        "title": "Water turned off to commode",
+        "description": "The water was turned off to unit at the time of inspection, this can indicate that the unit has a problem; 2nd floor guest bathroom",
+        "severity": "Deficient",
+        "estimated_fix": "Further Investigation",
+        "location": "2nd floor guest bathroom",
+        "page_refs": [
+          "32"
+        ]
+      }
+    },
+    {
+      "category": "PLUMBING",
+      "description": "Correct reversed hot and cold water supply lines at the 2nd floor primary bathroom shower valve. Work includes gaining access behind the shower (assumes cutting drywall and installing an access panel), reversing the connections at the valve, and testing for proper operation.",
+      "qty": 1,
+      "unit_price_usd": 575.0,
+      "line_total_usd": 575.0,
+      "notes": "Price assumes access is available or can be created through drywall. Price does not include repair of tile, texturing, or painting.",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "original_issue_id": 104,
+      "original_issue": {
+        "section": "Plumbing System",
+        "suggested_category": "PLUMBING",
+        "title": "Hot/cold water supply reversed",
+        "description": "Hot/cold reversed - Hot water supply to any fixture shall be installed on the left / back side;2nd floor shower, primary bathroom",
+        "severity": "Deficient",
+        "estimated_fix": "Repair",
+        "location": "2nd floor shower, primary bathroom",
+        "page_refs": [
+          "32"
+        ]
+      }
+    },
+    {
+      "category": "PLUMBING",
+      "description": "Water meter box / cover damaged or cover is missing.",
+      "qty": 1,
+      "unit_price_usd": 425,
+      "line_total_usd": 425,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 105,
+      "original_issue": {
+        "section": "Plumbing System",
+        "suggested_category": "PLUMBING",
+        "title": "Damaged or missing water meter cover",
+        "description": "Water meter box / cover damaged or cover is missing.",
+        "severity": "Deficient",
+        "estimated_fix": "Replace",
+        "location": "Front yard",
+        "page_refs": [
+          "32"
+        ]
+      }
+    },
+    {
+      "category": "PLUMBING",
+      "description": "Kitchen faucet turns 360 over counter top.",
+      "qty": 1,
+      "unit_price_usd": 400,
+      "line_total_usd": 400,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 106,
+      "original_issue": {
+        "section": "Plumbing System",
+        "suggested_category": "PLUMBING",
+        "title": "Kitchen faucet turns 360 degrees",
+        "description": "Kitchen faucet turns 360 over counter top.",
+        "severity": "Deficient",
+        "estimated_fix": "Repair",
+        "location": "Kitchen",
+        "page_refs": [
+          "32"
+        ]
+      }
+    },
+    {
+      "category": "PLUMBING",
+      "description": "The kitchen spray wand leaks water and/or does not operate properly.",
+      "qty": 1,
+      "unit_price_usd": 375,
+      "line_total_usd": 375,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 107,
+      "original_issue": {
+        "section": "Plumbing System",
+        "suggested_category": "PLUMBING",
+        "title": "Leaking kitchen spray wand",
+        "description": "The kitchen spray wand leaks water and/or does not operate properly.",
+        "severity": "Deficient",
+        "estimated_fix": "Repair",
+        "location": "Kitchen",
+        "page_refs": [
+          "32"
+        ]
+      }
+    },
+    {
+      "category": "PLUMBING",
+      "description": "Drain stopper or pop-up lever assembly of one or more sinks is missing, damaged or needs adjustment.",
+      "qty": 1,
+      "unit_price_usd": 425,
+      "line_total_usd": 425,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 108,
+      "original_issue": {
+        "section": "Plumbing System",
+        "suggested_category": "PLUMBING",
+        "title": "Missing or damaged sink drain stopper",
+        "description": "Drain stopper or pop-up lever assembly of one or more sinks is missing, damaged or needs adjustment.",
+        "severity": "Deficient",
+        "estimated_fix": "Repair",
+        "location": "Sinks",
+        "page_refs": [
+          "32"
+        ]
+      }
+    },
+    {
+      "category": "PLUMBING",
+      "description": "Recommend caulking around all tub/shower faucets and spouts to prevent water entry behind the wall.",
+      "qty": 1,
+      "unit_price_usd": 425,
+      "line_total_usd": 425,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 109,
+      "original_issue": {
+        "section": "Plumbing System",
+        "suggested_category": "PLUMBING",
+        "title": "Caulking needed around tub/shower fixtures",
+        "description": "Recommend caulking around all tub/shower faucets and spouts to prevent water entry behind the wall.",
+        "severity": "Deficient",
+        "estimated_fix": "Repair",
+        "location": "Tub/shower",
+        "page_refs": [
+          "32"
+        ]
+      }
+    },
+    {
+      "category": "PLUMBING",
+      "description": "Slow drain;primary bathroom",
+      "qty": 1,
+      "unit_price_usd": 375,
+      "line_total_usd": 375,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 110,
+      "original_issue": {
+        "section": "Plumbing System",
+        "suggested_category": "PLUMBING",
+        "title": "Slow drain in primary bathroom",
+        "description": "Slow drain;primary bathroom",
+        "severity": "Deficient",
+        "estimated_fix": "Repair",
+        "location": "Primary bathroom",
+        "page_refs": [
+          "33"
+        ]
+      }
+    },
+    {
+      "category": "PLUMBING",
+      "description": "Wall mounted shower head improperly facing shower door; . See IRC 2705.1 and UPC 411.10.",
+      "qty": 1,
+      "unit_price_usd": 400,
+      "line_total_usd": 400,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 111,
+      "original_issue": {
+        "section": "Plumbing System",
+        "suggested_category": "PLUMBING",
+        "title": "Improperly positioned shower head",
+        "description": "Wall mounted shower head improperly facing shower door; . See IRC 2705.1 and UPC 411.10.",
+        "severity": "Deficient",
+        "estimated_fix": "Repair",
+        "location": "Shower",
+        "page_refs": [
+          "33"
+        ]
+      }
+    },
+    {
+      "category": "PLUMBING",
+      "description": "Painting of exterior plastic PVC vents above the roof line required to prevent UV damage.",
+      "qty": 1,
+      "unit_price_usd": 350,
+      "line_total_usd": 350,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 112,
+      "original_issue": {
+        "section": "Plumbing System",
+        "suggested_category": "PLUMBING",
+        "title": "Exterior PVC vents need painting",
+        "description": "Painting of exterior plastic PVC vents above the roof line required to prevent UV damage.",
+        "severity": "Deficient",
+        "estimated_fix": "Repair",
+        "location": "Roof",
+        "page_refs": [
+          "34"
+        ]
+      }
+    },
+    {
+      "category": "PLUMBING",
+      "description": "Recommend a hydrostatic test / visual scope of sewer lines. Due to the age of the house and/or amount of settlement, the possibility of damaged/leaking drain lines below the house in this inspector's opinion is significant. The test by licensed plumber costs several hundred dollars and may uncover/find problems that can easily cost 10-20 thousand dollars to fix. Most new homeowner's policy will no longer cover this expense while existing homeowner policyholders may be covered/insured for this expense.",
+      "qty": 1,
+      "unit_price_usd": 375,
+      "line_total_usd": 375,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 113,
+      "original_issue": {
+        "section": "Plumbing System",
+        "suggested_category": "PLUMBING",
+        "title": "Hydrostatic test of sewer lines recommended",
+        "description": "Recommend a hydrostatic test / visual scope of sewer lines. Due to the age of the house and/or amount of settlement, the possibility of damaged/leaking drain lines below the house in this inspector's opinion is significant. The test by licensed plumber costs several hundred dollars and may uncover/find problems that can easily cost 10-20 thousand dollars to fix. Most new homeowner's policy will no longer cover this expense while existing homeowner policyholders may be covered/insured for this expense.",
+        "severity": "Deficient",
+        "estimated_fix": "Further Investigation",
+        "location": "Sewer lines",
+        "page_refs": [
+          "34"
+        ]
+      }
+    },
+    {
+      "category": "PLUMBING",
+      "description": "Located near house without benefit of a drain pan. Should water heater leak, interior finishes can be damaged.",
+      "qty": 1,
+      "unit_price_usd": 400,
+      "line_total_usd": 400,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 114,
+      "original_issue": {
+        "section": "Plumbing System",
+        "suggested_category": "PLUMBING",
+        "title": "Water heater missing drain pan",
+        "description": "Located near house without benefit of a drain pan. Should water heater leak, interior finishes can be damaged.",
+        "severity": "Deficient",
+        "estimated_fix": "Repair",
+        "location": "Water heater",
+        "page_refs": [
+          "34"
+        ]
+      }
+    },
+    {
+      "category": "PLUMBING",
+      "description": "The spa motor does not appear to have GFCI protection - this condition is a recognized safety hazard.",
+      "qty": 1,
+      "unit_price_usd": 425,
+      "line_total_usd": 425,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 115,
+      "original_issue": {
+        "section": "Plumbing System",
+        "suggested_category": "PLUMBING",
+        "title": "Spa motor missing GFCI protection",
+        "description": "The spa motor does not appear to have GFCI protection - this condition is a recognized safety hazard.",
+        "severity": "Deficient",
+        "estimated_fix": "Repair",
+        "location": "Primary bathroom tub",
+        "page_refs": [
+          "35"
+        ]
+      }
+    },
+    {
+      "category": "PLUMBING",
+      "description": "Cause of deficiency was unknown at the time of inspection; the primary bathroom tub recommends further investigation by a qualified professional to determine the root cause and possible remedy.",
+      "qty": 1,
+      "unit_price_usd": 375,
+      "line_total_usd": 375,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 116,
+      "original_issue": {
+        "section": "Plumbing System",
+        "suggested_category": "PLUMBING",
+        "title": "Unknown deficiency with hydro-massage tub",
+        "description": "Cause of deficiency was unknown at the time of inspection; the primary bathroom tub recommends further investigation by a qualified professional to determine the root cause and possible remedy.",
+        "severity": "Deficient",
+        "estimated_fix": "Further Investigation",
+        "location": "Primary bathroom tub",
+        "page_refs": [
+          "35"
+        ]
+      }
+    },
+    {
+      "category": "MISCELLANEOUS",
+      "description": "Interior stained from hard water, recommend cleaning.",
+      "qty": 1,
+      "unit_price_usd": 475,
+      "line_total_usd": 475,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 117,
+      "original_issue": {
+        "section": "Appliances",
+        "suggested_category": "MISCELLANEOUS",
+        "title": "Dishwasher interior stained",
+        "description": "Interior stained from hard water, recommend cleaning.",
+        "severity": "Deficient",
+        "estimated_fix": "Repair",
+        "location": "Dishwasher",
+        "page_refs": [
+          "36"
+        ]
+      }
+    },
+    {
+      "category": "MISCELLANEOUS",
+      "description": "Drain line needs to be better elevated and secured above side inlet of disposal to prevent debris and gray water from draining down line from disposal and back into dishwasher.",
+      "qty": 1,
+      "unit_price_usd": 525,
+      "line_total_usd": 525,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 118,
+      "original_issue": {
+        "section": "Appliances",
+        "suggested_category": "MISCELLANEOUS",
+        "title": "Improper dishwasher drain line elevation",
+        "description": "Drain line needs to be better elevated and secured above side inlet of disposal to prevent debris and gray water from draining down line from disposal and back into dishwasher.",
+        "severity": "Deficient",
+        "estimated_fix": "Repair",
+        "location": "Dishwasher",
+        "page_refs": [
+          "36"
+        ]
+      }
+    },
+    {
+      "category": "MISCELLANEOUS",
+      "description": "Dishwasher does not drain properly, water stands in the bottom of the dishwasher. Recommend having the unit serviced.",
+      "qty": 1,
+      "unit_price_usd": 525,
+      "line_total_usd": 525,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 119,
+      "original_issue": {
+        "section": "Appliances",
+        "suggested_category": "MISCELLANEOUS",
+        "title": "Dishwasher does not drain properly",
+        "description": "Dishwasher does not drain properly, water stands in the bottom of the dishwasher. Recommend having the unit serviced.",
+        "severity": "Deficient",
+        "estimated_fix": "Repair",
+        "location": "Dishwasher",
+        "page_refs": [
+          "36"
+        ]
+      }
+    },
+    {
+      "category": "MISCELLANEOUS",
+      "description": "Excessive grease buildup on vent screen or screen improperly positioned.",
+      "qty": 1,
+      "unit_price_usd": 550,
+      "line_total_usd": 550,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 120,
+      "original_issue": {
+        "section": "Appliances",
+        "suggested_category": "MISCELLANEOUS",
+        "title": "Grease buildup on range hood screen",
+        "description": "Excessive grease buildup on vent screen or screen improperly positioned.",
+        "severity": "Deficient",
+        "estimated_fix": "Repair",
+        "location": "Range hood",
+        "page_refs": [
+          "37"
+        ]
+      }
+    },
+    {
+      "category": "MISCELLANEOUS",
+      "description": "Thermostat/knob needs adjustment/replacement, when it is set at 350 degrees oven heats to approximately 325 degrees.",
+      "qty": 1,
+      "unit_price_usd": 500,
+      "line_total_usd": 500,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 121,
+      "original_issue": {
+        "section": "Appliances",
+        "suggested_category": "MISCELLANEOUS",
+        "title": "Oven thermostat needs adjustment",
+        "description": "Thermostat/knob needs adjustment/replacement, when it is set at 350 degrees oven heats to approximately 325 degrees.",
+        "severity": "Deficient",
+        "estimated_fix": "Repair",
+        "location": "Lower oven",
+        "page_refs": [
+          "38"
+        ]
+      }
+    },
+    {
+      "category": "MISCELLANEOUS",
+      "description": "Did not confirm/verify proper venting of all units to the exterior.",
+      "qty": 1,
+      "unit_price_usd": 550,
+      "line_total_usd": 550,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 122,
+      "original_issue": {
+        "section": "Appliances",
+        "suggested_category": "MISCELLANEOUS",
+        "title": "Bathroom fan venting not verified",
+        "description": "Did not confirm/verify proper venting of all units to the exterior.",
+        "severity": "Deficient",
+        "estimated_fix": "Further Investigation",
+        "location": "Bathrooms",
+        "page_refs": [
+          "39"
+        ]
+      }
+    },
+    {
+      "category": "MISCELLANEOUS",
+      "description": "Dryer not vented to exterior. Possible fire hazard.",
+      "qty": 1,
+      "unit_price_usd": 475,
+      "line_total_usd": 475,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 123,
+      "original_issue": {
+        "section": "Appliances",
+        "suggested_category": "MISCELLANEOUS",
+        "title": "Dryer not vented to exterior",
+        "description": "Dryer not vented to exterior. Possible fire hazard.",
+        "severity": "Deficient",
+        "estimated_fix": "Repair",
+        "location": "Dryer",
+        "page_refs": [
+          "39"
+        ]
+      }
+    },
+    {
+      "category": "MISCELLANEOUS",
+      "description": "Recommend periodic cleaning of the dryer vent ductwork to reduce the risk of fire.",
+      "qty": 1,
+      "unit_price_usd": 525,
+      "line_total_usd": 525,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 124,
+      "original_issue": {
+        "section": "Appliances",
+        "suggested_category": "MISCELLANEOUS",
+        "title": "Dryer vent needs periodic cleaning",
+        "description": "Recommend periodic cleaning of the dryer vent ductwork to reduce the risk of fire.",
+        "severity": "Deficient",
+        "estimated_fix": "Repair",
+        "location": "Dryer vent",
+        "page_refs": [
+          "39"
+        ]
+      }
+    },
+    {
+      "category": "MISCELLANEOUS",
+      "description": "Exterior dryer flapper door missing.",
+      "qty": 1,
+      "unit_price_usd": 550,
+      "line_total_usd": 550,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 125,
+      "original_issue": {
+        "section": "Appliances",
+        "suggested_category": "MISCELLANEOUS",
+        "title": "Missing exterior dryer flapper door",
+        "description": "Exterior dryer flapper door missing.",
+        "severity": "Deficient",
+        "estimated_fix": "Repair",
+        "location": "Exterior",
+        "page_refs": [
+          "39"
+        ]
+      }
+    },
+    {
+      "category": "WINDOWS/DOORS",
+      "description": "Electronic sensing eyes improperly installed, should be no more than 6\" above the floor.",
+      "qty": 1,
+      "unit_price_usd": 400,
+      "line_total_usd": 400,
+      "notes": "Fallback pricing based on deficient severity",
+      "priority": "MEDIUM",
+      "bundled_issues": 1,
+      "discount_applied": 0,
+      "discount_justification": "No discount",
+      "original_issue_id": 126,
+      "original_issue": {
+        "section": "Appliances",
+        "suggested_category": "WINDOWS/DOORS",
+        "title": "Improperly installed garage door sensors",
+        "description": "Electronic sensing eyes improperly installed, should be no more than 6\" above the floor.",
+        "severity": "Deficient",
+        "estimated_fix": "Repair",
+        "location": "Garage",
+        "page_refs": [
+          "39"
+        ]
+      }
+    }
+  ],
+  "tokens": 0
+}

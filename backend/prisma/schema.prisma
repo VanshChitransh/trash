@@ -1,0 +1,193 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+// Looking for ways to speed up your queries, or scale easily with your serverless or edge functions?
+// Try Prisma Accelerate: https://pris.ly/cli/accelerate-init
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+// Enum for authentication providers
+enum AuthProvider {
+  EMAIL
+  GOOGLE
+}
+
+// Enum for subscription status
+enum SubscriptionStatus {
+  FREE
+  PAID
+  TRIAL
+  EXPIRED
+  CANCELLED
+}
+
+enum PaymentStatus {
+  PENDING
+  PAID
+  FAILED
+  EXPIRED
+}
+
+// User model - Core user information
+model User {
+  id    String  @id @default(uuid())
+  email String  @unique
+  name  String?
+  image String? // Profile picture URL (useful for Google OAuth)
+
+  // Authentication fields
+  passwordHash  String? // Only for email-based auth, null for OAuth users
+  emailVerified Boolean      @default(false)
+  authProvider  AuthProvider @default(EMAIL)
+
+  // Subscription status
+  subscriptionStatus    SubscriptionStatus @default(FREE)
+  subscriptionStartDate DateTime?
+  subscriptionEndDate   DateTime?
+
+  // Timestamps
+  createdAt   DateTime  @default(now())
+  updatedAt   DateTime  @updatedAt
+  lastLoginAt DateTime?
+
+  // Relations
+  accounts   Account[]
+  pdfUploads PdfUpload[]
+  estimates  Estimate[]
+  payments   Payment[]
+
+  // Indexes for faster queries
+  @@index([email])
+  @@index([subscriptionStatus])
+  @@index([authProvider])
+  @@map("users")
+}
+
+// Account model - For OAuth accounts (Google, etc.)
+model Account {
+  id                String  @id @default(uuid())
+  userId            String
+  provider          String // 'google', 'facebook', etc.
+  providerAccountId String // The unique ID from the provider
+  providerEmail     String? // Email from the provider
+  accessToken       String? @db.Text
+  refreshToken      String? @db.Text
+  expiresAt         Int? // Unix timestamp
+  tokenType         String?
+  scope             String?
+
+  // Timestamps
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  // Relations
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  // Unique constraint: one account per provider per user
+  @@unique([provider, providerAccountId])
+  @@index([userId])
+  @@map("accounts")
+}
+
+// PDF Upload model - For storing uploaded PDF documents
+model PdfUpload {
+  id     String @id @default(uuid())
+  userId String
+
+  // File information
+  fileName String // Original filename
+  fileUrl  String @db.Text // Cloudflare R2 URL
+  fileSize Int // File size in bytes
+  mimeType String @default("application/pdf")
+  pageCount Int? // Number of pages in the PDF
+
+  // Metadata
+  uploadedAt  DateTime  @default(now())
+  processedAt DateTime? // When the PDF was processed
+  isProcessed Boolean   @default(false)
+
+  // Relations
+  user     User      @relation(fields: [userId], references: [id], onDelete: Cascade)
+  estimate Estimate? // One PDF can generate one estimate (optional)
+
+  // Indexes
+  @@index([userId])
+  @@index([uploadedAt])
+  @@index([isProcessed])
+  @@map("pdf_uploads")
+}
+
+// Estimate model - For storing generated estimate PDFs (paid users only)
+model Estimate {
+  id     String @id @default(uuid())
+  userId String
+
+  // Source PDF reference
+  sourcePdfId String?    @unique // Reference to the PDF that generated this estimate
+  sourcePdf   PdfUpload? @relation(fields: [sourcePdfId], references: [id], onDelete: SetNull)
+
+  // Estimate file information
+  fileName String // Original filename
+  fileUrl  String @db.Text // Cloudflare R2 URL
+  fileSize Int // File size in bytes
+  mimeType String @default("application/pdf")
+
+  // Estimate metadata
+  estimateNumber String? // Custom estimate number/ID
+  totalAmount    Decimal? @db.Decimal(12, 2) // Total estimate amount
+  currency       String?  @default("USD")
+
+  // Status
+  status   String  @default("draft") // draft, final, sent, approved, rejected
+  isActive Boolean @default(true)
+
+  // Timestamps
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+  generatedAt DateTime @default(now())
+  processingStartedAt DateTime? // When estimate processing started (for 2-hour wait period)
+
+  // Relations
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  // Indexes
+  @@index([userId])
+  @@index([createdAt])
+  @@index([status])
+  @@index([isActive])
+  @@map("estimates")
+}
+
+// Payment model - tracks GoDaddy payments matched via Gmail poller
+model Payment {
+  id           String        @id @default(uuid())
+  userId       String
+  fileId       String?       // optional link to the PDF being estimated
+  amountCents  Int
+  amountTier   String        // e.g., "39", "89"
+  status       PaymentStatus @default(PENDING)
+  paylinkUrl   String        @db.Text
+  correlationToken String?   // optional token if we can append to paylink/query
+  emailMessageId  String?    // matched Gmail message id
+  payerEmail     String?
+  matchedAt      DateTime?
+  expiresAt      DateTime?
+  createdAt      DateTime    @default(now())
+  updatedAt      DateTime    @updatedAt
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@index([userId])
+  @@index([fileId])
+  @@index([status])
+  @@index([createdAt])
+  @@index([expiresAt])
+  @@map("payments")
+}
