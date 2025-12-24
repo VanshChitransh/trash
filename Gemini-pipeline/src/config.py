@@ -5,7 +5,7 @@ GEMINI_GENERATION_CONFIG = {
     "temperature": 0.0,  # No randomness
     "top_p": 0.1,       # Minimal nucleus sampling
     "top_k": 1,         # Only consider top token
-    "max_output_tokens": 32768,  # Maximum for Gemini 2.5 Pro (handles very large reports)
+    "max_output_tokens": 32768,  # Maximum for Gemini 3 Pro (handles very large reports)
     "candidate_count": 1,  # Single response
 }
 

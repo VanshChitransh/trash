@@ -57,7 +57,7 @@ except ImportError:
 
 LOGGER = logging.getLogger("estimate_builder")
 
-DEFAULT_MODEL = "models/gemini-2.5-pro"
+DEFAULT_MODEL = "models/gemini-3-pro-preview"
 AI_LOG_PATH = Path("ai_estimate_log.csv")
 
 CATEGORIES = [

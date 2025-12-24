@@ -875,8 +875,8 @@ def parse_args(argv: Optional[list[str]] = None) -> argparse.Namespace:
     )
     parser.add_argument(
         "--model",
-        default="models/gemini-2.5-pro",
-        help="Gemini model name to use (defaults to models/gemini-2.5-pro).",
+        default="models/gemini-3-pro-preview",
+        help="Gemini model name to use (defaults to models/gemini-3-pro-preview).",
     )
     parser.add_argument(
         "--poll-interval",
